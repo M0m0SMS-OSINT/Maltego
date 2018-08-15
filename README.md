@@ -1,5 +1,7 @@
 # Maltego resources
 
+Open for contributions
+
 [Paterva Maltego tutorials - the complete and official set](https://www.youtube.com/playlist?list=PLC9DB3E7C258CD215)
 
 
@@ -7,7 +9,11 @@
 
 AWSRemoteTransform @ b24bb53
 
+Abusix @ ea1fbf4
+
 AirBag @ eabdcb9
+
+Amass @ 39a431b
 
 AsynchronousMaltego @ 2f7d44e
 
@@ -35,19 +41,27 @@ CryptoPerl @ 04442ed
 
 CuckooForCanari @ 0ae8a04
 
+DarkNetOSINTTransform @ ee8a947
+
 DockeriTDSServer @ 209e87b
 
 DomainTools @ 5dabb30
 
 DotNet @ d0cec9b
 
+ElasticElephant @ 51df262
+
 Facebook @ 33aad6d
 
 Fetlife @ 78d73df
 
+FileCase @ 7284f85
+
 FireAMP @ 0e9b0d7
 
 FreeGeoIP @ 5e1c401
+
+FullContact @ 4d3df73
 
 GavelCAR @ f71e9e5
 
@@ -61,6 +75,8 @@ GotFlow @ 2840acc
 
 HackerTargetAPI @ f12729c
 
+HaveIBeenPwned @ e7b02fc
+
 HeartBleed @ 9482751
 
 HoneyMalt @ 017e1f9
@@ -73,6 +89,8 @@ MISP @ 1242281
 
 MISPego @ e3bab8a
 
+MSploitego @ e5f16e9
+
 MacAfeeDomainReputation @ 1011c66
 
 MaliciousDomainProfiling @ 9d6f99d
@@ -84,6 +102,8 @@ Maltego-Rapleaf @ 64de0a9
 MaltegoCRITs @ 7a31d56
 
 MaltegoCloud @ cf2d272
+
+MaltegoPython3 @ 7636370
 
 MaltegoTraining @ 489047c
 
@@ -143,6 +163,8 @@ RiskIQ @ 6c7a8f6
 
 Send2URL @ 333f2f6
 
+Shodan @ 0230194
+
 Skype @ f3634d0
 
 SpiderMal @ afe2a74
@@ -151,7 +173,11 @@ Sploitego @ d9568dc
 
 Splunk @ b1a9c1b
 
+SpyOnWebAPI @ 2fb2e92
+
 Steam @ 8dfe136
+
+TRX @ fc0f093
 
 Tacyt @ 08f3256
 
@@ -162,6 +188,8 @@ ThreatCentral @ d0ede69
 ThreatCrowd @ 8181e4f
 
 ThreatNote @ 93b1f21
+
+TransNetFramework @ 53e408e
 
 TruePeopleSearch @ fc1bd73
 
@@ -188,3 +216,7 @@ WhereismyIp @ 2928866
 WhoIsStory @ a325cd2
 
 iSight_Packetmail_TorExitLookUp @ 833d1b1
+
+## TODO
+
+add author, description, category, scope and status (Active/Deprecated) for each repo
