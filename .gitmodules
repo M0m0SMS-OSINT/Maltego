@@ -1,0 +1,276 @@
+[submodule "Maltego-Rapleaf"]
+	path = Maltego-Rapleaf
+	url = https://github.com/cmlh/Maltego-Rapleaf.git
+[submodule "Maltego-Facebook"]
+	path = Maltego-Facebook
+	url = https://github.com/cmlh/Maltego-Facebook.git
+[submodule "ThreatButt"]
+	path = ThreatButt
+	url = https://github.com/ivanlei/threatbutt.git
+[submodule "Golang-Example"]
+	path = Golang-Example
+	url = https://github.com/NoobieDog/maltegolocal.git
+[submodule "PythonTransformExample"]
+	path = PythonTransformExample
+	url = https://github.com/cmlh/MaltegoTransform-Python.git
+[submodule "PyMaltegoTransform"]
+	path = PyMaltegoTransform
+	url = https://github.com/bindlock/pymaltego.git
+[submodule "PaloAltoMaltegoCanariFramework"]
+	path = PaloAltoMaltegoCanariFramework
+	url = https://github.com/bostonlink/pamalt_canari.git
+[submodule "GoldFish"]
+	path = GoldFish
+	url = https://github.com/brianwarehime/goldphish.git
+[submodule "HackerTargetAPI"]
+	path = HackerTargetAPI
+	url = https://github.com/peter-hackertarget/maltego_transforms.git
+[submodule "MaltegoTraining"]
+	path = MaltegoTraining
+	url = https://github.com/nenaiko-dareda/maltego_training.git
+[submodule "ThreatNote"]
+	path = ThreatNote
+	url = https://github.com/brianwarehime/Threat_note-Maltego.git
+[submodule "TwitterPerl"]
+	path = TwitterPerl
+	url = https://github.com/cmlh/Maltego-Twitter.git
+[submodule "FireAMP"]
+	path = FireAMP
+	url = https://github.com/JC-SoCal/FireAMP-Maltego.git
+[submodule "SpiderMal"]
+	path = SpiderMal
+	url = https://github.com/pan-unit42/public_tools.git
+[submodule "WayBack"]
+	path = WayBack
+	url = https://github.com/brianwarehime/wayback-maltego.git
+[submodule "Munk"]
+	path = Munk
+	url = https://github.com/brianwarehime/munk.git
+[submodule "MaltegoCRITs"]
+	path = MaltegoCRITs
+	url = https://github.com/brianwarehime/mcrits.git
+[submodule "WebPulse"]
+	path = WebPulse
+	url = https://github.com/tampererer/WebPulse-Maltego.git
+[submodule "MacAfeeDomainReputation"]
+	path = MacAfeeDomainReputation
+	url = https://github.com/tampererer/IP-Domain-Reputation-Maltego.git
+[submodule "Mnemonic"]
+	path = Mnemonic
+	url = https://github.com/tampererer/mnemonic-Maltego.git
+[submodule "HybridAnalysis"]
+	path = HybridAnalysis
+	url = https://github.com/tampererer/HybridAnalysis-Public-API-Maltego.git
+[submodule "VirusTotal"]
+	path = VirusTotal
+	url = https://github.com/tampererer/VirusTotal-Public-API-Maltego.git
+[submodule "OpenCorporates"]
+	path = OpenCorporates
+	url = https://github.com/clening/opencorporates_maltego_transform.git
+[submodule "PDNS"]
+	path = PDNS
+	url = https://github.com/ebouillon/PDNS-Maltego.git
+[submodule "RiskIQ"]
+	path = RiskIQ
+	url = https://github.com/RiskIQ/malriq.git
+[submodule "PSSL"]
+	path = PSSL
+	url = https://github.com/ebouillon/PSSL-Maltego.git
+[submodule "PTES"]
+	path = PTES
+	url = https://github.com/ausarneteru/EternalPtesTransforms.git
+[submodule "MISP"]
+	path = MISP
+	url = https://github.com/ebouillon/MISP-Maltego.git
+[submodule "Send2URL"]
+	path = Send2URL
+	url = https://github.com/reenberg/maltego-send2url.git
+[submodule "WhoIsStory"]
+	path = WhoIsStory
+	url = https://github.com/whoistory/whoistory.git
+[submodule "AsynchronousMaltego"]
+	path = AsynchronousMaltego
+	url = https://github.com/glennzw/maltaSync.git
+[submodule "BitcoinExplorer"]
+	path = BitcoinExplorer
+	url = https://github.com/5haman/maltego-btc.git
+[submodule "MISPego"]
+	path = MISPego
+	url = https://github.com/tomking2/MISPego.git
+[submodule "NMap"]
+	path = NMap
+	url = https://github.com/shizzz477/Maltego-Nmap-Transforms.git
+[submodule "FreeGeoIP"]
+	path = FreeGeoIP
+	url = https://github.com/sroberts/transforms.git
+[submodule "DotNet"]
+	path = DotNet
+	url = https://github.com/RDMcMahon/MaltegoTransformNet.git
+[submodule "Utils"]
+	path = Utils
+	url = https://github.com/Foo-Manroot/Maltego-utils.git
+[submodule "AWSRemoteTransform"]
+	path = AWSRemoteTransform
+	url = https://github.com/catalyst256/aws-maltegotransforms.git
+[submodule "ReverseWhoIs"]
+	path = ReverseWhoIs
+	url = https://github.com/tampererer/ReverseWhois-Maltego.git
+[submodule "Maltongo"]
+	path = Maltongo
+	url = https://github.com/mattnewham/maltongo.git
+[submodule "Blockade"]
+	path = Blockade
+	url = https://github.com/blockadeio/maltego_transforms.git
+[submodule "MetaSearch"]
+	path = MetaSearch
+	url = https://github.com/catalyst256/maltego-metasearch.git
+[submodule "Racoon_Recon-NG"]
+	path = Racoon_Recon-NG
+	url = https://github.com/SneakersInc/Racoon.git
+[submodule "Pandora"]
+	path = Pandora
+	url = https://github.com/SneakersInc/Pandora.git
+[submodule "HoneyMalt"]
+	path = HoneyMalt
+	url = https://github.com/SneakersInc/HoneyMalt.git
+[submodule "MiscreantPuncher"]
+	path = MiscreantPuncher
+	url = https://github.com/carterb/maltego.git
+[submodule "ThreatCentral"]
+	path = ThreatCentral
+	url = https://github.com/ThreatCentral/blackberries.git
+[submodule "Splunk"]
+	path = Splunk
+	url = https://github.com/eatm-cert/maltego.git
+[submodule "MaliciousDomainProfiling"]
+	path = MaliciousDomainProfiling
+	url = https://github.com/cmlh/Maltego-Transforms-Mirror.git
+[submodule "GotFlow"]
+	path = GotFlow
+	url = https://github.com/cmlh/gotFlow.git
+[submodule "AirBag"]
+	path = AirBag
+	url = https://github.com/brianwarehime/airbag.git
+[submodule "CryptoPerl"]
+	path = CryptoPerl
+	url = https://github.com/cmlh/Maltego-Crypto.git
+[submodule "BlueCoat"]
+	path = BlueCoat
+	url = https://github.com/rwhalen/MaltegoTransforms.git
+[submodule "BreachAlarm"]
+	path = BreachAlarm
+	url = https://github.com/cmlh/Maltego-BreachAlarm.git
+[submodule "Steam"]
+	path = Steam
+	url = https://github.com/WlndyMiller/SteamTransforms.git
+[submodule "TwitterMachine"]
+	path = TwitterMachine
+	url = https://github.com/BuckyBilson/MaltegoTransforms.git
+[submodule "NMapIP"]
+	path = NMapIP
+	url = https://github.com/herebepanda/maltego-transforms.git
+[submodule "GoogleServices"]
+	path = GoogleServices
+	url = https://github.com/nullJaX/Maltego-Google-Transforms.git
+[submodule "Facebook"]
+	path = Facebook
+	url = https://github.com/leresearcher/Maltego-Socialmedia-Transform.git
+[submodule "DomainTools"]
+	path = DomainTools
+	url = https://github.com/leresearcher/Maltego---Domaintools.git
+[submodule "PhoneValidate"]
+	path = PhoneValidate
+	url = https://github.com/monkeywire/PhoneValidate.git
+[submodule "DockeriTDSServer"]
+	path = DockeriTDSServer
+	url = https://github.com/asealey/maltego-tds-docker.git
+[submodule "Fetlife"]
+	path = Fetlife
+	url = https://github.com/meitar/fetlife-maltego.git
+[submodule "BlockChainExplorer"]
+	path = BlockChainExplorer
+	url = https://github.com/bostonlink/bitcoin-explorer.git
+[submodule "TruePeopleSearch"]
+	path = TruePeopleSearch
+	url = https://github.com/brianwarehime/truepeoplesearch_transforms.git
+[submodule "HeartBleed"]
+	path = HeartBleed
+	url = https://github.com/DisK0nn3cT/MaltegoHeartbleed.git
+[submodule "CreateTransform"]
+	path = CreateTransform
+	url = https://github.com/catalyst256/MyFirstTransform.git
+[submodule "Censys"]
+	path = Censys
+	url = https://github.com/ebouillon/Censys-Maltego.git
+[submodule "MaltegoCloud"]
+	path = MaltegoCloud
+	url = https://github.com/therm000/maltego-cloud.git
+[submodule "CRT"]
+	path = CRT
+	url = https://github.com/brianwarehime/crt.sh-Maltego-Transforms.git
+[submodule "OpenDNS"]
+	path = OpenDNS
+	url = https://github.com/anthonykasza/opendns_transform.git
+[submodule "VirusTotal2"]
+	path = VirusTotal2
+	url = https://github.com/michael-yip/MaltegoVT.git
+[submodule "NessusParser"]
+	path = NessusParser
+	url = https://github.com/securifera/MaltegoNessusParser.git
+[submodule "Nextego"]
+	path = Nextego
+	url = https://github.com/bostonlink/Nextego.git
+[submodule "RecordedFuture"]
+	path = RecordedFuture
+	url = https://github.com/cmlh/Maltego-Recorded_Future.git
+[submodule "RecordedFutureTDS"]
+	path = RecordedFutureTDS
+	url = https://github.com/cmlh/Maltego-Recorded_Future-TDS.git
+[submodule "PassiveTotal"]
+	path = PassiveTotal
+	url = https://github.com/passivetotal/maltego_tds_transforms.git
+[submodule "PassiveTotalMachine"]
+	path = PassiveTotalMachine
+	url = https://github.com/passivetotal/maltego_machines.git
+[submodule "TwitterFollowerPHP"]
+	path = TwitterFollowerPHP
+	url = https://github.com/sonologic/Maltego-transforms.git
+[submodule "GavelCAR"]
+	path = GavelCAR
+	url = https://github.com/brianwarehime/gavel.git
+[submodule "CensysIO"]
+	path = CensysIO
+	url = https://github.com/mpars0ns/maltego_censys.git
+[submodule "Klout"]
+	path = Klout
+	url = https://github.com/cmlh/maltego-1.git
+[submodule "ThreatCrowd"]
+	path = ThreatCrowd
+	url = https://github.com/AlienVault-OTX/ThreatCrowd-Maltego.git
+[submodule "ReconNG"]
+	path = ReconNG
+	url = https://github.com/bostonlink/recon-ng-maltego.git
+[submodule "Skype"]
+	path = Skype
+	url = https://github.com/NoobieDog/Skype-Maltego-Client.git
+[submodule "Tutorial"]
+	path = Tutorial
+	url = https://github.com/jacobjanco/maltego-project.git
+[submodule "CuckooForCanari"]
+	path = CuckooForCanari
+	url = https://github.com/bostonlink/cuckooforcanari.git
+[submodule "WhereismyIp"]
+	path = WhereismyIp
+	url = https://github.com/shaddygarg/maltego-transforms.git
+[submodule "iSight_Packetmail_TorExitLookUp"]
+	path = iSight_Packetmail_TorExitLookUp
+	url = https://github.com/0xd34db33f/maltego-transforms.git
+[submodule "Tacyt"]
+	path = Tacyt
+	url = https://github.com/ElevenPaths/tacyt-maltego-transforms.git
+[submodule "Sploitego"]
+	path = Sploitego
+	url = https://github.com/allfro/sploitego.git
+[submodule "CanariFramework3"]
+	path = CanariFramework3
+	url = https://github.com/redcanari/canari3.git
