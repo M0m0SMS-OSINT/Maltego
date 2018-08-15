@@ -280,3 +280,36 @@
 [submodule "TransNetFramework"]
 	path = TransNetFramework
 	url = https://github.com/secana/TransNet.git
+[submodule "Amass"]
+	path = Amass
+	url = https://github.com/OWASP/Amass.git
+[submodule "FileCase"]
+	path = FileCase
+	url = https://github.com/deadbits/Analyst-CaseFile.git
+[submodule "HaveIBeenPwned"]
+	path = HaveIBeenPwned
+	url = https://github.com/cmlh/Maltego-haveibeenpwned.git
+[submodule "ElasticElephant"]
+	path = ElasticElephant
+	url = https://github.com/znb/Elastic-Elephant.git
+[submodule "DarkNetOSINTTransform"]
+	path = DarkNetOSINTTransform
+	url = https://github.com/pielco11/DOT.git
+[submodule "SpyOnWebAPI"]
+	path = SpyOnWebAPI
+	url = https://github.com/krmaxwell/spyonweb.git
+[submodule "TRX"]
+	path = TRX
+	url = https://github.com/krmaxwell/TRX.git
+[submodule "Abusix"]
+	path = Abusix
+	url = https://github.com/cmlh/Maltego-Abusix.git
+[submodule "FullContact"]
+	path = FullContact
+	url = https://github.com/cmlh/Maltego-FullContact.git
+[submodule "MaltegoPython3"]
+	path = MaltegoPython3
+	url = https://github.com/rousselm4/MaltegoPython3.git
+[submodule "Shodan"]
+	path = Shodan
+	url = https://github.com/znb/Maltego.git
