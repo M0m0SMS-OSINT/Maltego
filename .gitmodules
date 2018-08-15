@@ -274,3 +274,9 @@
 [submodule "CanariFramework3"]
 	path = CanariFramework3
 	url = https://github.com/redcanari/canari3.git
+[submodule "MSploitego"]
+	path = MSploitego
+	url = https://github.com/shizzz477/msploitego.git
+[submodule "TransNetFramework"]
+	path = TransNetFramework
+	url = https://github.com/secana/TransNet.git
